@@ -27,5 +27,3 @@ This project uses historical data from the S&P 500 Index to predict whether the 
 - **Rolling Averages**: Includes multiple time horizons to predict price movements.
 - **Probability Classification**: Uses prediction probabilities for more refined decisions.
 
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
